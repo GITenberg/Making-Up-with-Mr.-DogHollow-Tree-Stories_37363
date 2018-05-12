@@ -19,6 +19,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
 description: Eight stories about the animals that live in the Hollw Tree and Deep
   Woods Country.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37363#Making-Up-with-Mr.-DogHollow-Tree-Stories
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2011-09-09'
 gutenberg_type: Text
